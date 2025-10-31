@@ -4,6 +4,9 @@
 This project presents an interactive Sales Dashboard built to analyze Adidas’ global sales and profitability performance across multiple dimensions such as products, regions, retailers, and sales methods.
 The dashboard offers decision-makers a clear view of business performance, enabling data-driven insights into what’s driving growth and profitability.
 
+![IMG_7962](https://github.com/user-attachments/assets/da085097-b4cc-4f4f-a72a-0d66557778aa)
+
+
 **Objectives**
 * To evaluate Adidas’ sales performance by product category, region, and retailer.
 * To understand profitability trends and identify high-performing areas.
@@ -72,6 +75,7 @@ Men’s Street Footwear leads both in total sales and profit, making it Adidas�
 
 ---
 6. Units Sold & Price per Unit
+
 | Product                  | Units Sold (M) | Price per Unit (Est.) |
 |---------------------------|----------------:|----------------------:|
 | Men’s Street Footwear     | 0.59            | High                  |
@@ -92,10 +96,25 @@ Men’s Street Footwear leads both in total sales and profit, making it Adidas�
 •	Excel / CSV Data (data cleaning and aggregation)
 •	GitHub (portfolio presentation and documentation)
 
-Methodology
+**Methodology**
 1. Data Collection: Historical sales data sourced from Adidas’ internal sales records.
 2. Data Cleaning: Removed duplicates, standardized date formats, and validated KPIs.
 3. Data Modeling: Built relationships between tables — Products, Regions, Retailers, and Methods.
 4. Visualization Design: Created charts for sales distribution, trends, and profitability.
 5. Dashboard Deployment: Published and shared an interactive report for _stakeholder_ use.
+
+**Business Impact**
+This dashboard provides real-time visibility into sales dynamics, enabling:
+•	Strategic allocation of marketing and inventory budgets.
+•	Enhanced forecasting for demand and revenue.
+•	Data-backed identification of high-growth regions and retailers.
+
+**Future Enhancements**
+•	Integrate predictive analytics (e.g., forecast sales using historical trends).
+•	Add customer segmentation insights.
+•	Connect to live data sources for real-time reporting.
+
+**Key Takeaway**
+Adidas demonstrates robust sales and profitability, driven by strong product diversification and retailer partnerships.
+Continuous optimization in online sales channels and emerging regions could unlock even greater growth opportunities.
 

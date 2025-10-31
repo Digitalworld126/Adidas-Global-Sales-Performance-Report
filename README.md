@@ -19,6 +19,7 @@ The dashboard offers decision-makers a clear view of business performance, enabl
 These figures highlight a solid profit margin across multiple sales channels.
 
 2. Performance by Product
+
 | Product                  | Total Sales ($) | Operating Profit ($) |
 |---------------------------|----------------:|---------------------:|
 | Men’s Street Footwear     | 27,680,769      | 8,280,294            |

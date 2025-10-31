@@ -39,7 +39,7 @@ These figures highlight a solid profit margin across multiple sales channels.
 
 
 Men’s Street Footwear leads both in total sales and profit, making it Adidas’ top-performing product category.
-
+---
 3. Regional Sales Breakdown
 
 | Region     | Total Sales ($M) |
@@ -49,6 +49,7 @@ Men’s Street Footwear leads both in total sales and profit, making it Adidas�
 | Southeast   | 21              |
 | South       | 17              |
 
+---
 4. Retailer Performance
 
 | Retailer     | Total Sales ($M) |
@@ -60,6 +61,7 @@ Men’s Street Footwear leads both in total sales and profit, making it Adidas�
 | Walmart       | 11              |
 | Amazon        | 10              |
 
+---
 5. Sales Method Breakdown
 
 | Sales Method | % of Total Profit |
@@ -68,6 +70,7 @@ Men’s Street Footwear leads both in total sales and profit, making it Adidas�
 | In-Store      | 32.40%           |
 | Online        | 29.12%           |
 
+---
 6. Units Sold & Price per Unit
 | Product                  | Units Sold (M) | Price per Unit (Est.) |
 |---------------------------|----------------:|----------------------:|
@@ -77,3 +80,22 @@ Men’s Street Footwear leads both in total sales and profit, making it Adidas�
 | Women’s Street Footwear   | 0.39            | Moderate              |
 | Men’s Apparel             | 0.32            | Low                   |
 | Women’s Athletic Footwear | 0.31            | Low                   |
+
+---
+
+7. Yearly and Monthly Trends
+    * Yearly Comparison: 2021 accounts for 79.9% of total sales, suggesting major growth in that year.
+    * Monthly Trend: Peaks observed in January and May, indicating strong Q1 and mid-year promotions.
+  
+**Tools & Technologies Used**
+•	Power BI / Tableau (for visualization)
+•	Excel / CSV Data (data cleaning and aggregation)
+•	GitHub (portfolio presentation and documentation)
+
+Methodology
+1. Data Collection: Historical sales data sourced from Adidas’ internal sales records.
+2. Data Cleaning: Removed duplicates, standardized date formats, and validated KPIs.
+3. Data Modeling: Built relationships between tables — Products, Regions, Retailers, and Methods.
+4. Visualization Design: Created charts for sales distribution, trends, and profitability.
+5. Dashboard Deployment: Published and shared an interactive report for _stakeholder_ use.
+

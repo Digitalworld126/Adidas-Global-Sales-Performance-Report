@@ -40,4 +40,40 @@ These figures highlight a solid profit margin across multiple sales channels.
 
 Men’s Street Footwear leads both in total sales and profit, making it Adidas’ top-performing product category.
 
+3. Regional Sales Breakdown
 
+| Region     | Total Sales ($M) |
+|-------------|----------------:|
+| West        | 36              |
+| Northeast   | 25              |
+| Southeast   | 21              |
+| South       | 17              |
+
+4. Retailer Performance
+
+| Retailer     | Total Sales ($M) |
+|---------------|----------------:|
+| West Gear     | 32              |
+| Foot Locker   | 29              |
+| Sports Direct | 25              |
+| Kohl’s        | 14              |
+| Walmart       | 11              |
+| Amazon        | 10              |
+
+5. Sales Method Breakdown
+
+| Sales Method | % of Total Profit |
+|---------------|-----------------:|
+| Outlet        | 38.48%           |
+| In-Store      | 32.40%           |
+| Online        | 29.12%           |
+
+6. Units Sold & Price per Unit
+| Product                  | Units Sold (M) | Price per Unit (Est.) |
+|---------------------------|----------------:|----------------------:|
+| Men’s Street Footwear     | 0.59            | High                  |
+| Women’s Apparel           | 0.43            | Moderate              |
+| Men’s Athletic Footwear   | 0.42            | Moderate              |
+| Women’s Street Footwear   | 0.39            | Moderate              |
+| Men’s Apparel             | 0.32            | Low                   |
+| Women’s Athletic Footwear | 0.31            | Low                   |

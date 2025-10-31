@@ -29,6 +29,7 @@ These figures highlight a solid profit margin across multiple sales channels.
 | Men’s Apparel             | 16,484,882      | 4,456,179            |
 | Women’s Athletic Footwear | 14,311,521      | 3,896,040            |
 
+---
 
 | Product                 | Total Sales ($) | Operating Profit ($) | Operating Margin (%) |
 |--------------------------|-----------------|----------------------|----------------------|
@@ -37,10 +38,6 @@ These figures highlight a solid profit margin across multiple sales channels.
 | Men’s Athletic Footwear  | 20.53M          | 5.17M                | 25.2%                |
 
 
-2. Performance by Product
-Product	Total Sales ($)	Operating Profit ($)
-Men’s Street Footwear	27.68M	8.28M
-Women’s Apparel	23.81M	6.86M
-Men’s Athletic Footwear	20.53M	5.17M
+Men’s Street Footwear leads both in total sales and profit, making it Adidas’ top-performing product category.
 
 

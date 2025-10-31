@@ -12,11 +12,19 @@ The dashboard offers decision-makers a clear view of business performance, enabl
 
 **Key Insights**
 1. Overall Performance
-  * Total Sales: $120M
-  * Operating Profit: $33M
-  * Total Units Sold: 2M
+   * Total Sales: $120M
+   * Operating Profit: $33M
+   * Total Units Sold: 2M
 
 These figures highlight a solid profit margin across multiple sales channels.
 
-
+2. Performance by Product
+| Product                  | Total Sales ($) | Operating Profit ($) |
+|---------------------------|----------------:|---------------------:|
+| Men’s Street Footwear     | 27,680,769      | 8,280,294            |
+| Women’s Apparel           | 23,814,985      | 6,856,750            |
+| Men’s Athletic Footwear   | 20,532,180      | 5,168,997            |
+| Women’s Street Footwear   | 17,171,938      | 4,499,284            |
+| Men’s Apparel             | 16,484,882      | 4,456,179            |
+| Women’s Athletic Footwear | 14,311,521      | 3,896,040            |
 
